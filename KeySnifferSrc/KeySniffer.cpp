@@ -184,13 +184,7 @@ int main()
                     // capture key down
                     NewObj->keydown[10] = down_t;
 
-                    if (NewObj->Validate())
-                        KeySequence.push_back(*NewObj);
-                    else
-                    {
-                        std::cout << " - Invalid key sequence. Skip." << std::endl;
-                        //std::cout << NewObj->ToString() << std::endl;
-                    }
+                    
 
                     break;
 
@@ -346,8 +340,21 @@ int main()
                 case VK_RETURN:
                     up_t = clock();
                     updown_t = (float)(down_t - uprev_t) / CLOCKS_PER_SEC;
+                    NewObj->keyup[10] = up_t;
 
-                    std::cout << std::endl;
+                    // Validate that the string is correct
+                    if (NewObj->Validate())
+                    {
+                        KeySequence.push_back(*NewObj);
+                        std::cout << std::endl;
+                    }
+                    else
+                    {
+                        std::cout << " - Invalid key sequence. Skip." << std::endl;
+                        
+                    }
+
+                    
                     break;
 
                 case VK_ESCAPE:
@@ -372,13 +379,14 @@ int main()
     fs.open(filename, std::fstream::in | std::fstream::app);
 
     // header line
-    fs << "User,Session,H.Period,UD.period.t,H.t,UD.t.i,H.i,UD.i.e,H.e,UD.e.five,H.five,UD.five.Shift.r,H.Shift.r,UD.Shift.r.o,H.o,UD.o.a,H.a,UD.o.n,H.n,UD.n.l,H.l,UD.l.Return"  << std::endl;
+    fs << "User,Session,Sequence,H.Period,UD.period.t,H.t,UD.t.i,H.i,UD.i.e,H.e,UD.e.five,H.five,UD.five.Shift.r,H.Shift.r,UD.Shift.r.o,H.o,UD.o.a,H.a,UD.o.n,H.n,UD.n.l,H.l,UD.l.Return,H.Return"  << std::endl;
     
     // Write all the captured KeyClass objects timings into file
-    for (auto item = KeySequence.begin(); item != KeySequence.end(); ++item)
+    int seq = 0;
+    for (auto item = KeySequence.begin(); item != KeySequence.end(); ++item, ++seq)
     {
 
-        fs << name << "," << SessionID << ",";
+        fs << name << "," << SessionID << "," << seq;
         fs << (*item).ToString() << std::endl;
         //std::cout << (*item).ToString() << std::endl;
         
