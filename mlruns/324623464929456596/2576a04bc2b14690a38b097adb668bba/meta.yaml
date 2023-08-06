@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/324623464929456596/2576a04bc2b14690a38b097adb668bba/artifacts
+end_time: 1691330238712
+entry_point_name: ''
+experiment_id: '324623464929456596'
+lifecycle_stage: active
+run_id: 2576a04bc2b14690a38b097adb668bba
+run_name: CHILD smoothing_var = 1e-09
+run_uuid: 2576a04bc2b14690a38b097adb668bba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691330238589
+status: 3
+tags: []
+user_id: sokonana

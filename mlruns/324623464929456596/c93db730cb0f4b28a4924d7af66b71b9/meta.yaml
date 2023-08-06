@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/324623464929456596/c93db730cb0f4b28a4924d7af66b71b9/artifacts
+end_time: 1691330236901
+entry_point_name: ''
+experiment_id: '324623464929456596'
+lifecycle_stage: active
+run_id: c93db730cb0f4b28a4924d7af66b71b9
+run_name: CHILD K = 8
+run_uuid: c93db730cb0f4b28a4924d7af66b71b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691330236711
+status: 3
+tags: []
+user_id: sokonana

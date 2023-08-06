@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/826498956374603324/d4056b4782d04eb887449a37f90bb379/artifacts
+end_time: 1691333418209
+entry_point_name: ''
+experiment_id: '826498956374603324'
+lifecycle_stage: active
+run_id: d4056b4782d04eb887449a37f90bb379
+run_name: CHILD voting = hard
+run_uuid: d4056b4782d04eb887449a37f90bb379
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691333405023
+status: 3
+tags: []
+user_id: sokonana

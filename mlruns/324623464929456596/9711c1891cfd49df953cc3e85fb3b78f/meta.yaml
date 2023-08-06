@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/324623464929456596/9711c1891cfd49df953cc3e85fb3b78f/artifacts
+end_time: 1691330226842
+entry_point_name: ''
+experiment_id: '324623464929456596'
+lifecycle_stage: active
+run_id: 9711c1891cfd49df953cc3e85fb3b78f
+run_name: CHILD MAX_DEPTH 10
+run_uuid: 9711c1891cfd49df953cc3e85fb3b78f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691330225775
+status: 3
+tags: []
+user_id: sokonana
