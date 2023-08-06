@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/py-learn/NYP/IT105%20Project/NYP-IT105-Project/mlruns/489051948401483228/8d892f6b131846c09ba9e68e476257ff/artifacts
+end_time: 1691334122315
+entry_point_name: ''
+experiment_id: '489051948401483228'
+lifecycle_stage: active
+run_id: 8d892f6b131846c09ba9e68e476257ff
+run_name: CHILD regularization strength = 0.1
+run_uuid: 8d892f6b131846c09ba9e68e476257ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691334119322
+status: 3
+tags: []
+user_id: sokonana

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/826498956374603324/e495ae0a369642c5b029c85b2082f5e6/artifacts
+deleted_time: 1691336991134
+end_time: 1691335770152
+entry_point_name: ''
+experiment_id: '826498956374603324'
+lifecycle_stage: deleted
+run_id: e495ae0a369642c5b029c85b2082f5e6
+run_name: CHILD n_est = 50, learn rate =10
+run_uuid: e495ae0a369642c5b029c85b2082f5e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691335544602
+status: 3
+tags: []
+user_id: sokonana

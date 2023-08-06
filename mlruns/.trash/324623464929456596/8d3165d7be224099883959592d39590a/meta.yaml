@@ -1,0 +1,16 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/324623464929456596/8d3165d7be224099883959592d39590a/artifacts
+deleted_time: 1691339232942
+end_time: 1691330238443
+entry_point_name: ''
+experiment_id: '324623464929456596'
+lifecycle_stage: deleted
+run_id: 8d3165d7be224099883959592d39590a
+run_name: K-NEAREST NEIGHBOUR
+run_uuid: 8d3165d7be224099883959592d39590a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691330235391
+status: 3
+tags: []
+user_id: sokonana

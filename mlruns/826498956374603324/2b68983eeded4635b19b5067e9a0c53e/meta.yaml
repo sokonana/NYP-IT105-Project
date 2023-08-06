@@ -1,8 +1,9 @@
 artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/826498956374603324/2b68983eeded4635b19b5067e9a0c53e/artifacts
+deleted_time: 1691334270059
 end_time: 1691333400009
 entry_point_name: ''
 experiment_id: '826498956374603324'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2b68983eeded4635b19b5067e9a0c53e
 run_name: GRADIENT BOOSTING
 run_uuid: 2b68983eeded4635b19b5067e9a0c53e

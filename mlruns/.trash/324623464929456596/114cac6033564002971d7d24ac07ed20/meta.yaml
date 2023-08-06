@@ -1,0 +1,16 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/324623464929456596/114cac6033564002971d7d24ac07ed20/artifacts
+deleted_time: 1691339232942
+end_time: 1691330876783
+entry_point_name: ''
+experiment_id: '324623464929456596'
+lifecycle_stage: deleted
+run_id: 114cac6033564002971d7d24ac07ed20
+run_name: CHILD C = 100, GAMMA =1
+run_uuid: 114cac6033564002971d7d24ac07ed20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691330850529
+status: 3
+tags: []
+user_id: sokonana

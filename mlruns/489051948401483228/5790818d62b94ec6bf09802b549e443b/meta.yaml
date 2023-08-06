@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/py-learn/NYP/IT105%20Project/NYP-IT105-Project/mlruns/489051948401483228/5790818d62b94ec6bf09802b549e443b/artifacts
+end_time: 1691334082496
+entry_point_name: ''
+experiment_id: '489051948401483228'
+lifecycle_stage: active
+run_id: 5790818d62b94ec6bf09802b549e443b
+run_name: CHILD K = 9
+run_uuid: 5790818d62b94ec6bf09802b549e443b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691334082229
+status: 3
+tags: []
+user_id: sokonana

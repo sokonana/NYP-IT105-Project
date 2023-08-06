@@ -1,0 +1,16 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/324623464929456596/742f261f266a462cbaf9bf2f723f37a7/artifacts
+deleted_time: 1691339232942
+end_time: 1691330233062
+entry_point_name: ''
+experiment_id: '324623464929456596'
+lifecycle_stage: deleted
+run_id: 742f261f266a462cbaf9bf2f723f37a7
+run_name: DECISION TREE
+run_uuid: 742f261f266a462cbaf9bf2f723f37a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691330225178
+status: 3
+tags: []
+user_id: sokonana

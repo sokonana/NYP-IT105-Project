@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/py-learn/NYP/IT105%20Project/NYP-IT105-Project/mlruns/489051948401483228/c6b1b1aef92143a6a4b789132cfb2030/artifacts
+end_time: 1691334192664
+entry_point_name: ''
+experiment_id: '489051948401483228'
+lifecycle_stage: active
+run_id: c6b1b1aef92143a6a4b789132cfb2030
+run_name: LOGISTIC REGRESSION
+run_uuid: c6b1b1aef92143a6a4b789132cfb2030
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691334116644
+status: 3
+tags: []
+user_id: sokonana
