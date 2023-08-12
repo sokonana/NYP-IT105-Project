@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/826498956374603324/32d409b65d56453196849b63538bf501/artifacts
+end_time: 1691421588613
+entry_point_name: ''
+experiment_id: '826498956374603324'
+lifecycle_stage: active
+run_id: 32d409b65d56453196849b63538bf501
+run_name: GRADIENT BOOSTING
+run_uuid: 32d409b65d56453196849b63538bf501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691418894159
+status: 4
+tags: []
+user_id: sokonana
