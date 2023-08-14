@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/0/eafb87208df74c9a9d186a1c1a02cf8d/artifacts
+end_time: 1692023396484
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eafb87208df74c9a9d186a1c1a02cf8d
+run_name: sedate-stag-683
+run_uuid: eafb87208df74c9a9d186a1c1a02cf8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692023275988
+status: 3
+tags: []
+user_id: sokonana

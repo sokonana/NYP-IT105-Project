@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/py-learn/NYP/IT105%20Project/NYP-IT105-Project/mlruns/951696759612545807/020ed672b46b4a5d961b8fd428443d51/artifacts
+end_time: 1692026458747
+entry_point_name: ''
+experiment_id: '951696759612545807'
+lifecycle_stage: active
+run_id: 020ed672b46b4a5d961b8fd428443d51
+run_name: delicate-steed-651
+run_uuid: 020ed672b46b4a5d961b8fd428443d51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692026457177
+status: 3
+tags: []
+user_id: sokonana

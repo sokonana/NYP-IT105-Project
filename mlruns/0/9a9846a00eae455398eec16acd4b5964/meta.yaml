@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/0/9a9846a00eae455398eec16acd4b5964/artifacts
+end_time: 1692017998604
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a9846a00eae455398eec16acd4b5964
+run_name: spiffy-penguin-443
+run_uuid: 9a9846a00eae455398eec16acd4b5964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692017878802
+status: 3
+tags: []
+user_id: sokonana

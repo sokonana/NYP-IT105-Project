@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/0/8c9ce47e0cd146619eec20ad85b4259f/artifacts
+end_time: 1692024620125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c9ce47e0cd146619eec20ad85b4259f
+run_name: casual-boar-534
+run_uuid: 8c9ce47e0cd146619eec20ad85b4259f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692024618463
+status: 3
+tags: []
+user_id: sokonana

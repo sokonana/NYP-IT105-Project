@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/0/ae29e872d8e340b79a79648bc402c2dd/artifacts
+end_time: 1692024260166
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae29e872d8e340b79a79648bc402c2dd
+run_name: bedecked-horse-346
+run_uuid: ae29e872d8e340b79a79648bc402c2dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692024258315
+status: 3
+tags: []
+user_id: sokonana

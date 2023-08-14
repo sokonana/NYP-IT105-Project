@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/0/31506af769ed449593140ed297fb0687/artifacts
+end_time: 1692017998604
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31506af769ed449593140ed297fb0687
+run_name: whimsical-midge-805
+run_uuid: 31506af769ed449593140ed297fb0687
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692017878802
+status: 3
+tags: []
+user_id: sokonana

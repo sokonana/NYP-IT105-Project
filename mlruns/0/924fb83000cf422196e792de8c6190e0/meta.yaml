@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/0/924fb83000cf422196e792de8c6190e0/artifacts
+end_time: 1692023771825
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 924fb83000cf422196e792de8c6190e0
+run_name: worried-crow-959
+run_uuid: 924fb83000cf422196e792de8c6190e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692023769944
+status: 3
+tags: []
+user_id: sokonana

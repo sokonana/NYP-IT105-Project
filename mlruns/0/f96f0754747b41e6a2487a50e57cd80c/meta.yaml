@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/0/f96f0754747b41e6a2487a50e57cd80c/artifacts
+end_time: 1692017207329
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f96f0754747b41e6a2487a50e57cd80c
+run_name: likeable-pug-568
+run_uuid: f96f0754747b41e6a2487a50e57cd80c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692017151955
+status: 3
+tags: []
+user_id: sokonana

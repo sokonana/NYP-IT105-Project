@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/py-learn/NYP/IT105%20Project/NYP-IT105-Project/mlruns/489051948401483228/eb8b882febb644c58ce1c3ea21b5d454/artifacts
+end_time: 1692014842957
+entry_point_name: ''
+experiment_id: '489051948401483228'
+lifecycle_stage: active
+run_id: eb8b882febb644c58ce1c3ea21b5d454
+run_name: CHILD MAX_DEPTH 2
+run_uuid: eb8b882febb644c58ce1c3ea21b5d454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692014842214
+status: 3
+tags: []
+user_id: sokonana

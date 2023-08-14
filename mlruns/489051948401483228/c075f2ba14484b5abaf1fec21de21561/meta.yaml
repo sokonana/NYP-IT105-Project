@@ -1,0 +1,16 @@
+artifact_uri: file:///home/sokonana/dev/py-learn/NYP/IT105%20Project/NYP-IT105-Project/mlruns/489051948401483228/c075f2ba14484b5abaf1fec21de21561/artifacts
+deleted_time: 1692014901626
+end_time: 1692014829729
+entry_point_name: ''
+experiment_id: '489051948401483228'
+lifecycle_stage: deleted
+run_id: c075f2ba14484b5abaf1fec21de21561
+run_name: DECISION TREE
+run_uuid: c075f2ba14484b5abaf1fec21de21561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692014828887
+status: 4
+tags: []
+user_id: sokonana

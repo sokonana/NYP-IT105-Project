@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/0/3616aa0acc6841a6b005ddf0d4b40c32/artifacts
+end_time: 1692017207382
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3616aa0acc6841a6b005ddf0d4b40c32
+run_name: aged-skink-601
+run_uuid: 3616aa0acc6841a6b005ddf0d4b40c32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692017151955
+status: 3
+tags: []
+user_id: sokonana

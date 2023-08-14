@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/0/7d2cd8af6b144727a4e3206c690d896e/artifacts
+end_time: 1692017998656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d2cd8af6b144727a4e3206c690d896e
+run_name: fun-jay-294
+run_uuid: 7d2cd8af6b144727a4e3206c690d896e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692017878802
+status: 3
+tags: []
+user_id: sokonana

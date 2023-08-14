@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/0/c0ee0c8f2b7146a2b9216c010c575ea0/artifacts
+end_time: 1692024298375
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0ee0c8f2b7146a2b9216c010c575ea0
+run_name: nosy-rat-987
+run_uuid: c0ee0c8f2b7146a2b9216c010c575ea0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692024296767
+status: 3
+tags: []
+user_id: sokonana

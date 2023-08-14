@@ -1,0 +1,16 @@
+artifact_uri: file:///home/sokonana/dev/py-learn/NYP/IT105%20Project/NYP-IT105-Project/mlruns/951696759612545807/7835918ec7bb49dfabbda575dfcc8721/artifacts
+deleted_time: 1692026205775
+end_time: 1692025272875
+entry_point_name: ''
+experiment_id: '951696759612545807'
+lifecycle_stage: deleted
+run_id: 7835918ec7bb49dfabbda575dfcc8721
+run_name: omniscient-lamb-86
+run_uuid: 7835918ec7bb49dfabbda575dfcc8721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692025271122
+status: 3
+tags: []
+user_id: sokonana

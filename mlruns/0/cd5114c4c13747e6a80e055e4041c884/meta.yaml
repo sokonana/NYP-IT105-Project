@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/0/cd5114c4c13747e6a80e055e4041c884/artifacts
+end_time: 1692019842996
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd5114c4c13747e6a80e055e4041c884
+run_name: bedecked-snipe-507
+run_uuid: cd5114c4c13747e6a80e055e4041c884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692019841048
+status: 3
+tags: []
+user_id: sokonana

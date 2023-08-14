@@ -1,0 +1,16 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/0/d84901ea891b42b4a1a328684744f465/artifacts
+deleted_time: 1692017185789
+end_time: 1692017119161
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d84901ea891b42b4a1a328684744f465
+run_name: caring-trout-283
+run_uuid: d84901ea891b42b4a1a328684744f465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692017119140
+status: 4
+tags: []
+user_id: sokonana

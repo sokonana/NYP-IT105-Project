@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/0/680b54fe6e6f426c9f6fc9326b93f256/artifacts
+end_time: 1692017207329
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 680b54fe6e6f426c9f6fc9326b93f256
+run_name: rare-fly-683
+run_uuid: 680b54fe6e6f426c9f6fc9326b93f256
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692017151955
+status: 3
+tags: []
+user_id: sokonana

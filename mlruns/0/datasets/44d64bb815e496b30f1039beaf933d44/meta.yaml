@@ -1,0 +1,10 @@
+digest: f3c321c3
+name: dataset
+profile: '{"features_shape": [2957, 21], "features_size": 62097, "features_nbytes":
+  496776, "targets_shape": [2957], "targets_size": 2957, "targets_nbytes": 23656}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 21]}}]", "targets": "[{\"type\": \"tensor\",
+  \"tensor-spec\": {\"dtype\": \"int64\", \"shape\": [-1]}}]"}}'
+source: '{"tags": {"mlflow.user": "sokonana", "mlflow.source.name": "/home/sokonana/.local/lib/python3.10/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/0/628250c80d48464b900ed1691651faf0/artifacts
+end_time: 1692017207329
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 628250c80d48464b900ed1691651faf0
+run_name: nimble-mule-217
+run_uuid: 628250c80d48464b900ed1691651faf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692017151955
+status: 3
+tags: []
+user_id: sokonana

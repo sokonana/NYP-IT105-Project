@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/0/29785accf25e4523bdc18d09f04126b7/artifacts
+end_time: 1692023713609
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29785accf25e4523bdc18d09f04126b7
+run_name: puzzled-doe-266
+run_uuid: 29785accf25e4523bdc18d09f04126b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692023711749
+status: 3
+tags: []
+user_id: sokonana

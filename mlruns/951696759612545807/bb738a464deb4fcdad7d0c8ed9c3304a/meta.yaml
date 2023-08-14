@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/py-learn/NYP/IT105%20Project/NYP-IT105-Project/mlruns/951696759612545807/bb738a464deb4fcdad7d0c8ed9c3304a/artifacts
+end_time: 1692026250010
+entry_point_name: ''
+experiment_id: '951696759612545807'
+lifecycle_stage: active
+run_id: bb738a464deb4fcdad7d0c8ed9c3304a
+run_name: mysterious-gull-875
+run_uuid: bb738a464deb4fcdad7d0c8ed9c3304a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692026191803
+status: 3
+tags: []
+user_id: sokonana

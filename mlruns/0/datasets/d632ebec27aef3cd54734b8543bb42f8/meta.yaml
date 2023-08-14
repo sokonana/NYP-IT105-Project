@@ -1,0 +1,16 @@
+digest: 593bcee9
+name: dataset
+profile: '{"num_rows": 1457, "num_elements": 30597}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "H.period"}, {"type": "double",
+  "name": "UD.period.t"}, {"type": "double", "name": "H.t"}, {"type": "double", "name":
+  "UD.t.i"}, {"type": "double", "name": "H.i"}, {"type": "double", "name": "UD.i.e"},
+  {"type": "double", "name": "H.e"}, {"type": "double", "name": "UD.e.five"}, {"type":
+  "double", "name": "H.five"}, {"type": "double", "name": "UD.five.Shift.r"}, {"type":
+  "double", "name": "H.Shift.r"}, {"type": "double", "name": "UD.Shift.r.o"}, {"type":
+  "double", "name": "H.o"}, {"type": "double", "name": "UD.o.a"}, {"type": "double",
+  "name": "H.a"}, {"type": "double", "name": "UD.a.n"}, {"type": "double", "name":
+  "H.n"}, {"type": "double", "name": "UD.n.l"}, {"type": "double", "name": "H.l"},
+  {"type": "double", "name": "UD.l.Return"}, {"type": "double", "name": "H.Return"}]}'
+source: '{"tags": {"mlflow.user": "sokonana", "mlflow.source.name": "/home/sokonana/.local/lib/python3.10/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

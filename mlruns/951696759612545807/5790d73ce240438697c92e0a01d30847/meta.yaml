@@ -1,0 +1,16 @@
+artifact_uri: file:///home/sokonana/dev/py-learn/NYP/IT105%20Project/NYP-IT105-Project/mlruns/951696759612545807/5790d73ce240438697c92e0a01d30847/artifacts
+deleted_time: 1692022935307
+end_time: 1692022650629
+entry_point_name: ''
+experiment_id: '951696759612545807'
+lifecycle_stage: deleted
+run_id: 5790d73ce240438697c92e0a01d30847
+run_name: CHILD C = 0.001 gamma = 0.001
+run_uuid: 5790d73ce240438697c92e0a01d30847
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692022644544
+status: 3
+tags: []
+user_id: sokonana

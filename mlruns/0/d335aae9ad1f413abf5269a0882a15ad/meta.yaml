@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/0/d335aae9ad1f413abf5269a0882a15ad/artifacts
+end_time: 1692017207329
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d335aae9ad1f413abf5269a0882a15ad
+run_name: dazzling-hare-262
+run_uuid: d335aae9ad1f413abf5269a0882a15ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692017151955
+status: 3
+tags: []
+user_id: sokonana

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/0/f1dbe6e00b9544b79dc14de2948116c9/artifacts
+end_time: 1692023396429
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1dbe6e00b9544b79dc14de2948116c9
+run_name: rogue-sheep-57
+run_uuid: f1dbe6e00b9544b79dc14de2948116c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692023275988
+status: 3
+tags: []
+user_id: sokonana

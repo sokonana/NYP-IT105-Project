@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/0/99d0d0dede874359800329025ed92f6d/artifacts
+end_time: 1692020905144
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99d0d0dede874359800329025ed92f6d
+run_name: unequaled-mink-348
+run_uuid: 99d0d0dede874359800329025ed92f6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692020903417
+status: 3
+tags: []
+user_id: sokonana

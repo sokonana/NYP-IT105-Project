@@ -1,0 +1,16 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/0/da759e6ec4a7467d8dc5b5e6cd1e11ef/artifacts
+deleted_time: 1692017185789
+end_time: 1692017147364
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: da759e6ec4a7467d8dc5b5e6cd1e11ef
+run_name: able-ape-787
+run_uuid: da759e6ec4a7467d8dc5b5e6cd1e11ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692017147344
+status: 4
+tags: []
+user_id: sokonana

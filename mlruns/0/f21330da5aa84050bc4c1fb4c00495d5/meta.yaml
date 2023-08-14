@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/0/f21330da5aa84050bc4c1fb4c00495d5/artifacts
+end_time: 1692019967852
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f21330da5aa84050bc4c1fb4c00495d5
+run_name: popular-shoat-915
+run_uuid: f21330da5aa84050bc4c1fb4c00495d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692019966147
+status: 3
+tags: []
+user_id: sokonana

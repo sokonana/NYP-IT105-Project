@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/0/727ba7a8c3ae48c4808d1b889652efcc/artifacts
+end_time: 1692017998604
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 727ba7a8c3ae48c4808d1b889652efcc
+run_name: valuable-bug-656
+run_uuid: 727ba7a8c3ae48c4808d1b889652efcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692017878802
+status: 3
+tags: []
+user_id: sokonana

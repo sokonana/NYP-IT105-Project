@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/0/09ff7632509c4c079b7145f89c211b09/artifacts
+end_time: 1692023396429
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09ff7632509c4c079b7145f89c211b09
+run_name: bedecked-kit-784
+run_uuid: 09ff7632509c4c079b7145f89c211b09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692023275988
+status: 3
+tags: []
+user_id: sokonana

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/0/094404a02e7645d9a4d35415c969a65a/artifacts
+end_time: 1692023396429
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 094404a02e7645d9a4d35415c969a65a
+run_name: chill-carp-515
+run_uuid: 094404a02e7645d9a4d35415c969a65a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692023275988
+status: 3
+tags: []
+user_id: sokonana

@@ -1,0 +1,9 @@
+digest: 7c512d66
+name: dataset
+profile: '{"features_shape": [1457, 21], "features_size": 30597, "features_nbytes":
+  244776}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 21]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "sokonana", "mlflow.source.name": "/home/sokonana/.local/lib/python3.10/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

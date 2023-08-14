@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/py-learn/NYP/IT105%20Project/NYP-IT105-Project/mlruns/951696759612545807/ff0ab14667694b22b725dc1a39d821bd/artifacts
+end_time: 1692023139162
+entry_point_name: ''
+experiment_id: '951696759612545807'
+lifecycle_stage: active
+run_id: ff0ab14667694b22b725dc1a39d821bd
+run_name: SVM_RBF
+run_uuid: ff0ab14667694b22b725dc1a39d821bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692022923310
+status: 3
+tags: []
+user_id: sokonana

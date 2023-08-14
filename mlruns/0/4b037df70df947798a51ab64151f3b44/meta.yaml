@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/0/4b037df70df947798a51ab64151f3b44/artifacts
+end_time: 1692023396429
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b037df70df947798a51ab64151f3b44
+run_name: tasteful-dog-700
+run_uuid: 4b037df70df947798a51ab64151f3b44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692023275988
+status: 3
+tags: []
+user_id: sokonana

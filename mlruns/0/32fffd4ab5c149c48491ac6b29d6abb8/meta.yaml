@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/0/32fffd4ab5c149c48491ac6b29d6abb8/artifacts
+end_time: 1692023834706
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32fffd4ab5c149c48491ac6b29d6abb8
+run_name: gentle-mare-193
+run_uuid: 32fffd4ab5c149c48491ac6b29d6abb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692023833050
+status: 3
+tags: []
+user_id: sokonana

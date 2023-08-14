@@ -1,0 +1,1 @@
+[('scaler', StandardScaler()), ('svm', SVC(C=10, kernel='poly'))]
