@@ -1,0 +1,16 @@
+artifact_uri: file:///home/sokonana/dev/NYP/IT105%20Project/NYP-IT105-Project/mlruns/581163018173390676/ded3551dc5ac41c3b770ebab5a7d8d3c/artifacts
+deleted_time: 1692193105220
+end_time: 1692193090981
+entry_point_name: ''
+experiment_id: '581163018173390676'
+lifecycle_stage: deleted
+run_id: ded3551dc5ac41c3b770ebab5a7d8d3c
+run_name: Gradient Boost Classifier
+run_uuid: ded3551dc5ac41c3b770ebab5a7d8d3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692193085021
+status: 4
+tags: []
+user_id: sokonana

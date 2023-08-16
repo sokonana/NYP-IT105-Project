@@ -1,0 +1,2 @@
+Pipeline(steps=[('scaler', StandardScaler()),
+                ('gboost', GradientBoostingClassifier(random_state=42))])
