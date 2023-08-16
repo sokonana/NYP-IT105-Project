@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/py-learn/NYP/IT105%20Project/NYP-IT105-Project/mlruns/363703340912702651/8c8677352cfa4c16a9973897aa0f25a4/artifacts
+end_time: 1692213012570
+entry_point_name: ''
+experiment_id: '363703340912702651'
+lifecycle_stage: active
+run_id: 8c8677352cfa4c16a9973897aa0f25a4
+run_name: likeable-robin-779
+run_uuid: 8c8677352cfa4c16a9973897aa0f25a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692212998476
+status: 3
+tags: []
+user_id: sokonana

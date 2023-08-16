@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/py-learn/NYP/IT105%20Project/NYP-IT105-Project/mlruns/363703340912702651/de1bc9aea8df47128b9e24c60b98cee2/artifacts
+end_time: 1692201456951
+entry_point_name: ''
+experiment_id: '363703340912702651'
+lifecycle_stage: active
+run_id: de1bc9aea8df47128b9e24c60b98cee2
+run_name: powerful-mare-23
+run_uuid: de1bc9aea8df47128b9e24c60b98cee2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692194000801
+status: 3
+tags: []
+user_id: sokonana

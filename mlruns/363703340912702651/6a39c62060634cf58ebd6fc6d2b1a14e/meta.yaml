@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/py-learn/NYP/IT105%20Project/NYP-IT105-Project/mlruns/363703340912702651/6a39c62060634cf58ebd6fc6d2b1a14e/artifacts
+end_time: 1692201456951
+entry_point_name: ''
+experiment_id: '363703340912702651'
+lifecycle_stage: active
+run_id: 6a39c62060634cf58ebd6fc6d2b1a14e
+run_name: sneaky-mole-217
+run_uuid: 6a39c62060634cf58ebd6fc6d2b1a14e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692194000801
+status: 3
+tags: []
+user_id: sokonana

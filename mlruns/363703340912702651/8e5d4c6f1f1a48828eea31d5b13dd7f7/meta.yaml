@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/py-learn/NYP/IT105%20Project/NYP-IT105-Project/mlruns/363703340912702651/8e5d4c6f1f1a48828eea31d5b13dd7f7/artifacts
+end_time: 1692201456951
+entry_point_name: ''
+experiment_id: '363703340912702651'
+lifecycle_stage: active
+run_id: 8e5d4c6f1f1a48828eea31d5b13dd7f7
+run_name: dashing-donkey-543
+run_uuid: 8e5d4c6f1f1a48828eea31d5b13dd7f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692194000801
+status: 3
+tags: []
+user_id: sokonana

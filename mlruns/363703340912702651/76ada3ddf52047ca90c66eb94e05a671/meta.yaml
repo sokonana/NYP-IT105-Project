@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/py-learn/NYP/IT105%20Project/NYP-IT105-Project/mlruns/363703340912702651/76ada3ddf52047ca90c66eb94e05a671/artifacts
+end_time: 1692201457016
+entry_point_name: ''
+experiment_id: '363703340912702651'
+lifecycle_stage: active
+run_id: 76ada3ddf52047ca90c66eb94e05a671
+run_name: Gradient Boost Classifier
+run_uuid: 76ada3ddf52047ca90c66eb94e05a671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692194000801
+status: 3
+tags: []
+user_id: sokonana

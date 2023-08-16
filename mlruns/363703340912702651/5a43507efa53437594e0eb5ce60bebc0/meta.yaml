@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sokonana/dev/py-learn/NYP/IT105%20Project/NYP-IT105-Project/mlruns/363703340912702651/5a43507efa53437594e0eb5ce60bebc0/artifacts
+end_time: 1692201456951
+entry_point_name: ''
+experiment_id: '363703340912702651'
+lifecycle_stage: active
+run_id: 5a43507efa53437594e0eb5ce60bebc0
+run_name: classy-koi-126
+run_uuid: 5a43507efa53437594e0eb5ce60bebc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692194000801
+status: 3
+tags: []
+user_id: sokonana
