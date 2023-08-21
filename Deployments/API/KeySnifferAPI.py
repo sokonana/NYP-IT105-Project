@@ -16,7 +16,7 @@ app = Flask(__name__)
 def detect_keystroke():
     inputdata = request.get_json()
    
-    # print(inputdata)
+    print(inputdata)
     # forming an array
     # This checking for dict data type is to make sure it works with Postman 
     # and web client call
