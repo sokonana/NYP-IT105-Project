@@ -1,0 +1,41 @@
+﻿@page
+@model AuthModel
+@{
+}
+@section Scripts {
+
+<script type="text/javascript" src="~/js/auth.js" asp-append-version="true"></script>
+
+}
+
+<div class="text-left">
+    <h1 class="display-4">KeyStroke Sniffer Authentication</h1>
+    <p>Type the following string:</p>
+    <p><b>.tie5Roanl</b></p>
+    <form method="post">
+        <input type="text" class="form-control" placeholder="Type and press enter when done" id="typearea" />
+        <br />
+        <button class="btn btn-primary" id="showResults">Submit</button>
+        <!--<input type='submit' class="btn btn-warning" value="Test" /> -->
+    </form>
+
+    <p>
+        <div id="results"></div>
+    </p>
+    
+    @if(!string.IsNullOrEmpty(Model.ErrMsg))
+    {
+        <div class="alert alert-danger">@Model.ErrMsg</div>
+    }
+    else if (@Model.Results is not null)
+    {
+        <dl>
+            <dt>Identified Subject<dt>
+            <dd>@Model.Results.pred_class CodeL @Model.Results.pred_code.ToString()</dd>
+
+            <dt>Probability</dt>
+            <dd>@Model.Results.pred_prob.ToString()</dd>
+        </dl>
+    }
+
+</div>

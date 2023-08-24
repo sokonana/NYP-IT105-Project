@@ -1,0 +1,29 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+@section Scripts {
+
+<script type="text/javascript" src="~/js/capture.js" asp-append-version="true"></script>
+
+}
+
+<div class="text-left">
+    <h1 class="display-4">KeyStroke Dynamic Capture for Training</h1>
+    <p>Type the following string:</p>
+    <p><b>.tie5Roanl</b></p>
+    <form method="post">
+        <input type="text" class="form-control" placeholder="Type and press enter when done" id="typearea" />
+        <br />
+        <button class="btn btn-primary" id="showResults">Capture</button>
+        <a class="btn btn-secondary" asp-page="Index">Skip</a>
+    </form>
+
+    <p>
+        <div id="totalKeystroke"></div>
+    </p>
+    
+    <p><a asp-page="ShowKeystrokes">Display Last Captured Results</a></p>
+
+</div>

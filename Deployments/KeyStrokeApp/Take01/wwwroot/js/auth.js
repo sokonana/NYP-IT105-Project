@@ -92,9 +92,22 @@ $(document).ready(function () {
 
                 var result = JSON.parse(data)
 
+                var prob = parseFloat(result.pred_prob);
+
                 // Forming output
                 var OutputResults = "<h5>Results</h5>"; 
-                OutputResults = OutputResults + "<p>Identified Subject: <b>" + result.pred_class + "</b><br />";
+
+                var identity;
+
+                if (prob > 0.8)
+                {
+                    identity = result.pred_class;
+                }
+                else
+                {
+                    identity = "Unidentified Subject";
+                }
+                OutputResults = OutputResults + "<p>Identified Subject: <b>" + identity + "</b><br />";
                 OutputResults = OutputResults + "Prediction Probability: <b>" + result.pred_prob + "</b</p>"; 
 
                 $('#results').html(OutputResults);                       
